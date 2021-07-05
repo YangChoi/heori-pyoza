@@ -57,6 +57,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # discord
 gem 'discordrb'
+gem 'discordrb-webhooks'
 
 # sidekiq
 gem "sidekiq"
